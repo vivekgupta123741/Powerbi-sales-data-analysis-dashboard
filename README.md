@@ -250,51 +250,51 @@ Total Profit = CALCULATE(
 
 ### Dashboard — Main Overview (City Map, KPIs, Trends & Promotions)
 <p align="center">
-  <img src="screenshots/dashboard_overview.png" alt="Dashboard Overview - Sales by City, Orders, Promotions, Profit vs Net Sales, Sales Trends" width="800"/>
+  <img src="dashboard_overview.png" alt="Dashboard Overview - Sales by City, Orders, Promotions, Profit vs Net Sales, Sales Trends" width="800"/>
 </p>
 
 ### Dashboard — Period Comparison View (Bar Charts)
 <p align="center">
-  <img src="screenshots/dashboard_period_comparison.png" alt="Period Comparison Dashboard" width="800"/>
+  <img src="dashboard_period_comparison.png" alt="Period Comparison Dashboard" width="800"/>
 </p>
 
 ### Dashboard — KPI Comparison View (Horizontal Bars)
 <p align="center">
-  <img src="screenshots/dashboard_kpi_comparison.png" alt="KPI Comparison Dashboard" width="800"/>
+  <img src="dashboard_kpi_comparison.png" alt="KPI Comparison Dashboard" width="800"/>
 </p>
 
 ### Data Model — Star Schema
 <p align="center">
-  <img src="screenshots/data_model.png" alt="Star Schema Data Model" width="800"/>
+  <img src="data_model.png" alt="Star Schema Data Model" width="800"/>
 </p>
 
 ### Business Requirements
 <p align="center">
-  <img src="screenshots/business_requirements.png" alt="Business Requirements - 8 Key Questions" width="600"/>
+  <img src="business_requirements.png" alt="Business Requirements - 8 Key Questions" width="600"/>
 </p>
 
 ### Dashboard — Top/Bottom 5 Products (Sales, Quantity & Profit)
 <p align="center">
-  <img src="screenshots/top_bottom_products.png" alt="Top and Bottom 5 Products by Sales, Quantity and Profit" width="800"/>
+  <img src="top_bottom_products.png" alt="Top and Bottom 5 Products by Sales, Quantity and Profit" width="800"/>
 </p>
 
 ### Dashboard — Order Details Table (with Filters)
 <p align="center">
-  <img src="screenshots/order_details_table.png" alt="Order Details Table with Interactive Filters" width="800"/>
+  <img src="order_details_table.png" alt="Order Details Table with Interactive Filters" width="800"/>
 </p>
 
 ### Dashboard — Interactive Filters / Slicers
 <p align="center">
-  <img src="screenshots/filters_slicers.png" alt="Customer Name and Promotion Name Filter Slicers" width="800"/>
+  <img src="filters_slicers.png" alt="Customer Name and Promotion Name Filter Slicers" width="800"/>
 </p>
 
 ### DAX Measures
 <p align="center">
-  <img src="screenshots/dax_quantity_sold.png" alt="DAX Measure - Quantity Sold" width="600"/>
+  <img src="dax_quantity_sold.png" alt="DAX Measure - Quantity Sold" width="600"/>
   <br/><br/>
-  <img src="screenshots/dax_net_sales.png" alt="DAX Measure - Net Sales" width="600"/>
+  <img src="dax_net_sales.png" alt="DAX Measure - Net Sales" width="600"/>
   <br/><br/>
-  <img src="screenshots/dax_total_profit.png" alt="DAX Measure - Total Profit" width="600"/>
+  <img src="dax_total_profit.png" alt="DAX Measure - Total Profit" width="600"/>
 </p>
 
 ---
