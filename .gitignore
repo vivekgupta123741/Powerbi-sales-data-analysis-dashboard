@@ -1,0 +1,33 @@
+# =========================
+# Power BI Project .gitignore
+# =========================
+
+# ---- Temporary & System Files ----
+~$*
+*.tmp
+*.bak
+*.swp
+*.log
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# ---- Power BI Temporary Files ----
+*.pbit
+*.pbix.tmp
+
+# ---- Office Temporary Files ----
+~$*.xlsx
+~$*.pptx
+~$*.docx
+
+# ---- IDE / Editor Files ----
+.vscode/
+.idea/
+*.suo
+*.user
+
+# ---- OS Generated Files ----
+ehthumbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
