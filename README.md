@@ -109,9 +109,7 @@ The dataset follows a **Star Schema** design pattern with **3 Dimension Tables**
 
 The project uses a **Star Schema** with the Fact Table at the center, connected to three dimension tables and two date tables for period comparison:
 
-<p align="center">
-  <img src="screenshots/data_model.png" alt="Star Schema Data Model" width="800"/>
-</p>
+
 
 **Relationships:**
 | From (Table) | To (Table) | Key | Cardinality |
