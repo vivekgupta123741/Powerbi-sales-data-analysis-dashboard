@@ -379,10 +379,7 @@ powerbi-sales-data-analysis-dashboard/
 **Vivek Gupta**
 
 - 🔗 GitHub: [@vivekgupta123741](https://github.com/vivekgupta123741)
-- 💼 LinkedIn: [Connect with me](https://linkedin.com/in/YOUR-LINKEDIN-ID)
-
----
-
+- 💼 LinkedIn: [Connect with me](https://linkedin.com/in/vivek-gupta-866404224/)
 ## 📄 License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
